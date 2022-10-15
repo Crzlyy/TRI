@@ -2,7 +2,7 @@
 
 echo @color("nevy","\n╔════════════════•ೋೋ•════════════════╗\n");
 echo @color("red","          TEMBAK PAKET THREE\n");
-echo @color("green","               L4 EROOR\n");
+echo @color("green","               arifmuhamaddd\n");
 echo @color("white","                  KMB");
 echo @color("yellow","\n  Jangan lupa isi pulsa dulu ya !!!!");
 echo @color("nevy","\n╚════════════════•ೋೋ•════════════════╝\n\n");
